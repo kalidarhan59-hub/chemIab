@@ -1,0 +1,160 @@
+{
+  "app": {
+    "name": "ChemLab",
+    "tagline": "Interactive Chemistry World",
+    "description": "Modern virtual chemistry platform for students and applicants."
+  },
+  "nav": {
+    "home": "Home",
+    "periodicTable": "Periodic Table",
+    "balancer": "Balancer",
+    "lab": "Virtual Lab",
+    "molecules": "3D Molecules",
+    "articles": "Chemistry Around Us",
+    "trainer": "UNT Trainer",
+    "about": "About",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "common": {
+    "start": "Start Exploring",
+    "explore": "Explore Modules",
+    "learnMore": "Learn More",
+    "comingSoon": "Coming Soon",
+    "inDevelopment": "In Development",
+    "backHome": "Back to Home",
+    "retry": "Try Again",
+    "close": "Close",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "loading": "Loading...",
+    "errorOccurred": "An error occurred",
+    "search": "Search...",
+    "share": "Share",
+    "level": "Level",
+    "points": "Points",
+    "streak": "Day Streak",
+    "days": "days",
+    "completed": "Tasks Solved",
+    "quickStats": "Quick Stats",
+    "status": "Status",
+    "themeLight": "Light Theme",
+    "themeDark": "Dark Theme",
+    "language": "Language",
+    "safetyFirst": "Safety Rules"
+  },
+  "hero": {
+    "badge": "🔬 Innovative Learning Environment",
+    "titlePart1": "Experience Chemistry ",
+    "titleGradient": "Visually and Intuitively",
+    "titlePart2": " Without Rote Learning",
+    "subtitle": "Interactive environment: 3D molecular structures, smart equation balancer, experiment simulations, and UNT exam prep.",
+    "ctaStart": "Start Learning",
+    "ctaExplore": "Module Catalog",
+    "statsElements": "118 Elements",
+    "statsReactions": "500+ Reactions",
+    "statsInteractive": "100% Free",
+    "activeUsers": "For Students & Teachers"
+  },
+  "sections": {
+    "title": "Chemistry Modules & Tools",
+    "subtitle": "Intelligent services aligned with school curriculum",
+    "periodicTable": {
+      "title": "Periodic Table",
+      "shortDesc": "Interactive periodic table: electron configurations, periodic trends, properties, and facts for all 118 elements.",
+      "badge": "Core Tool"
+    },
+    "balancer": {
+      "title": "Equation Balancer",
+      "shortDesc": "Automatic reaction balancing via Gaussian matrix elimination with step-by-step solutions and stoichiometry.",
+      "badge": "Algorithmic"
+    },
+    "lab": {
+      "title": "Virtual Laboratory",
+      "shortDesc": "Safe reagent mixing, precipitate observation, gas evolution, indicators, and thermal reaction simulations.",
+      "badge": "Hands-on"
+    },
+    "molecules": {
+      "title": "3D Molecule Builder",
+      "shortDesc": "Explore 3D spatial structures of organic and inorganic compounds, bond angles, and orbital hybridization.",
+      "badge": "3D Spatial"
+    },
+    "articles": {
+      "title": "Chemistry Around Us",
+      "shortDesc": "Engaging articles about chemistry in kitchen, nature, health, and industry with safe home experiments.",
+      "badge": "Articles & Experiments"
+    },
+    "trainer": {
+      "title": "UNT Trainer",
+      "shortDesc": "Bank of 400+ UNT chemistry exam tasks across all topics with step-by-step solutions and spaced repetition.",
+      "badge": "UNT Exam Prep"
+    }
+  },
+  "about": {
+    "title": "About ChemLab",
+    "subtitle": "Interactive Multilingual Chemistry Education Platform by Akbobek School",
+    "missionTitle": "Our Mission",
+    "missionText": "Make chemistry visual, intuitive, and enjoyable for every student without rote memorization. We combine 3D models, mathematical reaction balancing, and UNT exam preparation into a unified educational ecosystem.",
+    "audienceTitle": "Who Is This Platform For?",
+    "audiences": [
+      {
+        "role": "Grades 7–11 Students",
+        "desc": "To master school curriculum deeply and conduct virtual experiments safely."
+      },
+      {
+        "role": "UNT Exam Applicants",
+        "desc": "To prepare effectively for national entrance exams with comprehensive question banks."
+      },
+      {
+        "role": "Chemistry Teachers",
+        "desc": "To demonstrate 3D molecules and chemical reactions visually in classrooms."
+      },
+      {
+        "role": "Science Enthusiasts",
+        "desc": "To explore real-life chemistry in kitchen, nature, health, and industry."
+      }
+    ],
+    "safetyTitle": "Laboratory Safety Rules",
+    "safetySubtitle": "Essential safety guidelines for real and virtual lab work",
+    "safetyRules": [
+      "Perform experiments only in equipped school laboratories under teacher supervision.",
+      "Always wear safety goggles and lab coats. Avoid skin or eye contact with acids and alkalis.",
+      "Never taste reagents or directly inhale chemical vapors.",
+      "Always add acid slowly to water, never water to acid.",
+      "All virtual simulations in ChemLab are 100% safe."
+    ],
+    "authorTitle": "Project Author",
+    "authorDesc": "Platform created by Akbobek School to empower chemistry education."
+  },
+  "trainer": {
+    "seo": {
+      "title": "UNT Chemistry Exam Trainer | ChemLab",
+      "description": "Prepare for UNT chemistry exams: bank of 400+ tasks with step-by-step solutions, spaced repetition, and weak topic analytics."
+    },
+    "hero": {
+      "badge": "🎯 UNT Preparation Center",
+      "title": "Confidently Master ",
+      "titleGradient": "UNT Chemistry Exams",
+      "subtitle": "Practice question bank for UNT chemistry, full mock exams, and detailed mistake explanations."
+    },
+    "modes": {
+      "topic": "Topic Practice",
+      "mock": "Full UNT Mock Exam",
+      "daily": "Daily 5",
+      "mistakes": "Retry Mistakes",
+      "stats": "Statistics & Progress"
+    },
+    "topics": {
+      "atomic_structure": "Atomic Structure",
+      "periodic_law": "Periodic Law",
+      "chemical_bond": "Chemical Bonding",
+      "inorganic_classes": "Inorganic Compound Classes",
+      "reactions": "Chemical Reactions",
+      "solutions": "Solutions & Dissociation",
+      "redox": "Redox Reactions",
+      "metals_nonmetals": "Metals & Non-metals",
+      "organic": "Organic Chemistry",
+      "calculations": "Chemical Calculations"
+    }
+  }
+}
