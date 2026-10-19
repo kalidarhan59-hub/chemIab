@@ -40,3 +40,18 @@ npm start
 npm run build
 npm test
 ```
+
+## Публикация на Vercel
+
+Импортируйте https://github.com/kalidarhan59-hub/chemIab в https://vercel.com/new .
+
+- Framework Preset: Vite
+- Build Command: `npm run build`
+- Output Directory: `dist`
+- Install Command: `npm ci`
+- Node.js: 24.x
+- Environment Variables: `GEMINI_API_KEY` — ваш ключ (Production); `GEMINI_MODEL` — `gemini-3.8-flash`.
+
+Нажмите Deploy. Ключ вводится только в настройках Vercel, не в GitHub. Для изменения ключа: Project → Settings → Environment Variables, затем Redeploy. Для публичного доступа проверьте Settings → Deployment Protection.
+
+После публикации откройте `/api/health`: `aiConfigured: true` означает, что ключ задан, но не гарантирует его действительность или доступную квоту. Для полной проверки отправьте сообщение в чат.
